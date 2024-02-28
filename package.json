@@ -8,6 +8,12 @@
     "dependencies": {
         "shiki": "^1.1.7"
     },
+    "main": [
+        "build.js"
+    ],
+    "files": [
+        "build.js"
+    ],
     "devDependencies": {
         "@stylistic/eslint-plugin-js": "1.5.4",
         "esbuild": "^0.20.1",
