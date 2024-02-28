@@ -1,6 +1,7 @@
 {
     "name": "shiki-with-just-nord-json-support",
     "description": "",
+    "version": "69",
     "author": "ɛʟʟɨօȶ b  =^._.^= ∫ <elliot@email.gd>",
     "license": "The Unlicense",
     "main": "build.js",
