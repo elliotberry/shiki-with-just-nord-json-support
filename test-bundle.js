@@ -25,7 +25,6 @@ let value = `{
 }
   `
 async function main() {
-    console.log(makeHTML)
   const html = await makeHTML(value);
   await fs.promises.writeFile("output-bundle.html", html);
 }
